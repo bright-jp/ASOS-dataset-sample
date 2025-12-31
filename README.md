@@ -2,7 +2,7 @@
 
 <h2>1001件のASOS商品のサンプルデータセット</h2>
 
-![ASOS products dataset header](https://github.com/luminati-io/ASOS-dataset-sample/blob/main/ASOS-dataset.png)
+![ASOS products dataset header](https://github.com/bright-jp/ASOS-dataset-sample/blob/main/ASOS-dataset.png)
 
 1000件以上のレコードを含むASOS商品のデータセットサンプルです。データセットは <b>Bright Data API</b> を使用して抽出されています。
 
