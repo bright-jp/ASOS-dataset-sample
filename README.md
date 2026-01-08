@@ -1,4 +1,4 @@
-# ASOS-dataset-sample
+# ASOS データセットサンプル
 
 <h2>1001件のASOS商品のサンプルデータセット</h2>
 
